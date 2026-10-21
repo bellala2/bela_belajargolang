@@ -7,7 +7,7 @@ Proyek sederhana menggunakan bahasa pemrograman **Go** yang mendemonstrasikan pe
 
 ---
 
-## 🛠️ Cara Menjalankan
+## Cara Menjalankan
 
 Buka terminal di root folder proyek, lalu jalankan perintah berikut:
 
