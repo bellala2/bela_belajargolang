@@ -28,7 +28,7 @@ func main() {
 	fmt.Println("Nama:", nama)
 	fmt.Println("Umur:", umur)
 	fmt.Println("Kota:", kota)
-	fmt.Println("Status Mahasiswa:", isStudent)
+	fmt.Println("Status Siswa :", isStudent)
 
 	fmt.Println("\nLUAS LINGKARAN")
 	lingkaranSaya := Lingkaran{JariJari: 10}
