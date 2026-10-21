@@ -14,6 +14,7 @@ Buka terminal di root folder proyek, lalu jalankan perintah berikut:
 ```bash
 go run main.go
 
+#Berikut adalah outputnya :
 Data Diri
 Nama: meilan
 Umur: 18
