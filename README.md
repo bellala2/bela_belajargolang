@@ -20,7 +20,7 @@ Data Diri
 Nama: meilan
 Umur: 18
 Kota: Malang
-Status Mahasiswa: true
+Status Siswa: true
 
 LUAS LINGKARAN
 Jari-jari: 10
